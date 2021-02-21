@@ -1,0 +1,7 @@
+{
+  "webpage": "https://mystifying-beaver-ee03b5.netlify.app/",
+  "table": "//*[@id='app']/div[3]",
+  "sort_data": "//*[@id='app']/div[2]/select",
+  "filter_data": "filter-input"
+
+}
